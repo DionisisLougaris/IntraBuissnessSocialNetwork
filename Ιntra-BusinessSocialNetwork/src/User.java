@@ -21,7 +21,6 @@ public class User {
 		this.password = password;
 	}
 	
-	System.out.println("afdsfsfg");
 	
 	
 }

@@ -18,6 +18,7 @@ public class Company {
 		this.email = email;
 	}
 	ffrtgjj;
+	test elenikos;
 	
 	
 	

@@ -17,6 +17,7 @@ public class Company {
 		this.telephone = telephone;
 		this.email = email;
 	}
+	ffrtgjj;
 	
 	
 	

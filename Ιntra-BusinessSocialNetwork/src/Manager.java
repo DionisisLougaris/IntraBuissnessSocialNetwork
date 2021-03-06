@@ -6,6 +6,9 @@ public class Manager extends Executive{
 		super(firstName, lastName, email, password);
 		System.out.println("Styliana");
 		
+		
+	      System.out.println("reiujk");
+		
 	}
 
 }

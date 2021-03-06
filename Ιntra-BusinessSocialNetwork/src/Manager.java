@@ -7,7 +7,7 @@ public class Manager extends Executive{
 		
 		
 	      System.out.println("reiujk");
-		γγ
+		σιδθαξκ
 	}
 
 }
